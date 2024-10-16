@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"types.h": "c",
+		"libft.h": "c",
+		"lexer.h": "c"
+	}
+}
