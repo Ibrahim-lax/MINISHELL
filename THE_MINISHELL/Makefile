@@ -1,2 +1,0 @@
-all :
-		cc parsing/commands_list.c parsing/env.c parsing/lexer.c parsing/syntax_error.c parsing/utils.c parsing/here_doc.c parsing/print.c parsing/paring.c multiple_cmds.c parsing/libft.a main.c GNL/get_next_line.c GNL/get_next_line_utils.c -lreadline
